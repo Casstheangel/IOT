@@ -23,6 +23,9 @@ TIP120 - 1 unidade
 300 Ω Resistor - 1 unidade
 Relé SPDT - 1 unidade
 
+# Imagem
+![imagem](HortaAutomáticaSensorDeUmidadedoSolo.png)
+
 # Codigo
  <LiquidCrystal.h>  // Inclui a biblioteca para controlar o display LCD
 
